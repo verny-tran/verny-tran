@@ -1,4 +1,4 @@
-### Hi there 👋
+### A dedicated Apple Developer
 
 <!--
 **verny-tran/verny-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Presently works as an iOS Engineer at CELEBe Korea Co., Ltd. and as a Research Associate at the School of Computer Science and Engineering, International University (VNU-HCMC). I conduct research in the fields of computer vision, computer graphics, augmented reality, applied artificial intelligence and on-device machine learning utilizing mobile applications and other Apple-oriented platforms. Beside the coding work, I am also a proactive graphic, branding, and motion designer.
