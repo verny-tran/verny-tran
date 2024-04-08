@@ -1,4 +1,4 @@
-### A dedicated Apple Developer
+### 👨‍💻 A dedicated Apple Developer
 
 <!--
 **verny-tran/verny-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
