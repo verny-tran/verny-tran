@@ -73,7 +73,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 
 #### Databases:
 ![CloudKit](https://img.shields.io/badge/CloudKit-000000?logo=icloud&logoColor=white)
-![Core_Data](https://img.shields.io/badge/Core_Data-000000?logo=data&logoColor=white)
+![Core_Data](https://img.shields.io/badge/Core_Data-003545?logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?logo=firebase&logoColor=ffcd34)
 ![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?logo=MySQL&logoColor=white)
