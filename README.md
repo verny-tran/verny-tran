@@ -23,7 +23,7 @@ This is the place where I work and opensource cool stuffs. You can check out my 
 By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%23FFA700&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit!
 
 
-### 📫 Connect with me:
+### 📲 Connect with me:
 <a href="mailto:vernytran@icloud.com"><img src="https://img.shields.io/badge/iCloud-%23000000?&logo=icloud&logoColor=white"/></a>
 <a href="mailto:vernytran@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vernytran"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
@@ -39,9 +39,9 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 <a href="https://www.facebook.com/verniusovich"><img src="https://img.shields.io/badge/KakaoTalk-ffcd00.svg?logo=kakaotalk&logoColor=black"/></a>
 <a href="https://www.facebook.com/verniusovich"><img src="https://img.shields.io/badge/Line-00C300?logo=line&logoColor=white"/></a>
 
-### 🔨 Languages & Frameworks:
+### 🔨 Technical Stacks:
 
-#### Progamming Languages:
+#### Programming Languages:
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3?logo=apple&logoColor=white)
 ![Objective-C++](https://img.shields.io/badge/Objective--C++-5e5086?logo=apple&logoColor=white)
