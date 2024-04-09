@@ -86,8 +86,8 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
 
 #### CI/CD:
-![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?logo=circleci&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/Circle%20CI-%23161616.svg?logo=circleci&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=githubactions&logoColor=white)
 
 #### Operating System:
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
@@ -114,7 +114,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)
 
 #### Cryptocurrency:
-![fanC](https://img.shields.io/badge/fanC-7D00FF?logo=fanC&logoColor=white)
+![fanC](https://img.shields.io/badge/fanC-7D00FF?logo=c&logoColor=white)
 
 #### Store:
 ![AppStore](https://img.shields.io/badge/AppStore-0D96F6?logo=app-store&logoColor=white)
