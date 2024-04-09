@@ -81,9 +81,13 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=Apache%20Airflow&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=Airtable&logoColor=white)
 
-#### System Admin Tools & DevOps:
+#### Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white)
 
+#### Servers:
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
 
 #### Operating System:
