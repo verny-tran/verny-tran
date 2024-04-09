@@ -63,8 +63,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)
 ![Google Data Studio](https://img.shields.io/badge/Google_Data_Studio-3366d0?logo=google-data-studio&logoColor=white)
-![_coremltools](https://img.shields.io/badge/_coremltools-2B283A?logo=apple&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=matplotlib&logoColor=black)
+![_coremltools](https://img.shields.io/badge/_coremltools-%23ffffff.svg?logo=apple&logoColor=black)
 
 #### Cloud Hosting:
 ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-f29100?logo=amazonaws&logoColor=white)
