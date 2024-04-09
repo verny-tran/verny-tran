@@ -26,11 +26,12 @@ You can check out my [Linkedin Profile](https://www.linkedin.com/in/tomhuynhsg/)
 Btw, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%233D3DFF&title_bg=%23E61E2A&icon=coveralls.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit!
 
 
-### 📫 Connect with me: 
+### 📫 Connect with me:
+<a href="mailto:vernytran@icloud.com"><img src="https://img.shields.io/badge/iCloud%23D14836.svg?&logo=icloud&logoColor=white" /></a>
 <a href="mailto:vernytran@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vernytran/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/verny-tran"><img src="https://img.shields.io/badge/GitHub-800080.svg?&logo=github&logoColor=white" /></a>
-<a href="https://www.facebook.com/verniusovich"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&logo=facebook&logoColor=white" /></a>
+<a href="https://www.facebook.com/verniusovich"><img src="https://img.shields.io/badge/Facebook-%233B5998.svg?&logo=facebook&logoColor=white" /></a>
 
 
 ### 🔨 Languages & Frameworks:
