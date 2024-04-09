@@ -58,7 +58,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black)
+![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)
 
 #### Version Control:
@@ -86,6 +86,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 
 #### Frameworks, Platforms and Libraries:
 ![Vision](https://img.shields.io/badge/Vision-%23white.svg?logo=apple&logoColor=white)
+![Accelerate](https://img.shields.io/badge/Accelerate-07405e.svg?logo=apple&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?logo=xamarin&logoColor=white)
 
 #### Data Analysis & Machine Learning:
