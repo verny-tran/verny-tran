@@ -41,7 +41,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 
 ### 🛠️ Technical Stacks:
 
-#### Programming Languages:
+#### Programming & Markup Languages:
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3?logo=apple&logoColor=white)
 ![Objective-C++](https://img.shields.io/badge/Objective--C++-5e5086?logo=apple&logoColor=white)
@@ -124,8 +124,9 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 #### Communication:
 ![Jira](https://img.shields.io/badge/Jira-%230047B3.svg?logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%230047B3.svg?logo=confluence&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-E01563?logo=Slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=Trello&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-E01563?logo=Slack&logoColor=white)
+![Zalo](https://img.shields.io/badge/-Zalo-E01563?logo=Zalo&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)
 
 #### Cryptocurrency:
