@@ -64,12 +64,12 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?logo=Matplotlib&logoColor=white)
 
 #### Cloud Hosting:
-![GCP](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-f29100?logo=amazonaws&logoColor=white)
-
-#### Containers:
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 
 #### Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?logo=MySQL&logoColor=white)
@@ -83,10 +83,8 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 
 #### System Admin Tools & DevOps:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase)
+
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
 
 #### Operating System:
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
