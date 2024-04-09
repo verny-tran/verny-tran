@@ -88,15 +88,16 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
 
-#### OS:
+#### Operating System:
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 ![watchOS](https://img.shields.io/badge/watchOS-000000?logo=apple&logoColor=white)
 ![tvOS](https://img.shields.io/badge/tvOS-000000?logo=apple&logoColor=white)
 ![visionOS](https://img.shields.io/badge/visionOS-000000?logo=apple&logoColor=white)
 
-#### IDE:
+#### Editors:
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=xcode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)
