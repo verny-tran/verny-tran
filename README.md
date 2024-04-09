@@ -37,7 +37,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 <a href="https://www.instagram.com/my.xcodeproj"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
 <a href="https://www.threads.net/my.xcodeproj"><img src="https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white"/></a>
 <a href="http://qr.kakao.com/talk/b.w5B0SWnhiClI3Gk76xiA1cwy8-"><img src="https://img.shields.io/badge/KakaoTalk-ffcd00.svg?logo=kakaotalk&logoColor=black"/></a>
-<a href="https://line.me/ti/p/VUlkAnCNGi"><img src="https://img.shields.io/badge/LINE?logo=line&logoColor=white"/></a>
+<a href="https://line.me/ti/p/VUlkAnCNGi"><img src="https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=white"/></a>
 
 ### 🔨 Technical Stacks:
 
