@@ -54,12 +54,14 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000?logo=markdown&logoColor=white)
 
 #### Data Analysis & Machine Learning:
+![Core ML](https://img.shields.io/badge/Core_ML-314BF96?logo=coreml&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/Pytorch%20-ef4b28.svg?logo=Pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-3191c3.svg?logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)
 ![Google Data Studio](https://img.shields.io/badge/Google_Data_Studio-3366d0?logo=google-data-studio&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=matplotlib&logoColor=black)
 
@@ -69,7 +71,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 
 #### Databases:
 ![CloudKit](https://img.shields.io/badge/CloudKit-000000?logo=icloud&logoColor=white)
