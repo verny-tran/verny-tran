@@ -21,7 +21,7 @@ Here is the place where I work and opensource cool stuffs. You can check out my 
 
 💬 Ask me about anything, I'm happy to help!
 
-By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%233D3DFF&title_bg=%23E61E2A&icon=coveralls.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit!
+By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit!
 
 
 ### 📫 Connect with me:
