@@ -17,27 +17,32 @@ Here are some ideas to get you started:
 
 Presently works as an iOS Engineer at CELEBe Korea Co., Ltd. and as a Research Associate at the School of Computer Science and Engineering, International University (VNU-HCMC). I conduct research in the fields of computer vision, computer graphics, augmented reality, applied artificial intelligence and on-device machine learning utilizing mobile applications and other Apple-oriented platforms. Beside the coding work, I am also a proactive graphic, branding, and motion designer.
 
-I'm a Machine Learning Scientist, Software Engineer and IT Lecturer!
-
 Here is the place where I work and opensource cool stuffs.
 
 You can check out my [Linkedin Profile](https://www.linkedin.com/in/tomhuynhsg/) for the background and contact info.
 
 💬 ask me about anything, I'm happy to help!
 
-Btw, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTomHuynhSG&count_bg=%233D3DFF&title_bg=%23E61E2A&icon=coveralls.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit!
+Btw, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%233D3DFF&title_bg=%23E61E2A&icon=coveralls.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit!
 
 
 ### 📫 Connect with me: 
-
-
 <a href="mailto:tomhuynhsg@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tomhuynhsg/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/TomHuynhSG"><img src="https://img.shields.io/badge/github-800080.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!--<a href="https://www.facebook.com/tomhuynhsg/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;-->
 
-
 ### 🔨 Languages & Frameworks:
+
+#### Progamming Languages:
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Objective-C++](https://img.shields.io/badge/OBJECTIVE--C++-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
+![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-square&logo=c-in-hexagon&logoColor=white)
+![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=flat-square&logo=cpp2&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 #### Data Analysis & Machine Learning:
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -117,12 +122,3 @@ Btw, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?u
 ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)
-
-
-#### Other Languages:
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Objective-C++](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-square&logo=c-in-hexagon&logoColor=white)
-![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=flat-square&logo=cpp2&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white)
