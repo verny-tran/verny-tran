@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 Presently works as an iOS Engineer at CELEBe Korea Co., Ltd. and as a Research Associate at the School of Computer Science and Engineering, International University (VNU-HCMC). I conduct research in the fields of computer vision, computer graphics, augmented reality, applied artificial intelligence and on-device machine learning utilizing mobile applications and other Apple-oriented platforms. Beside the coding work, I am also a proactive graphic, branding, and motion designer.
 
-This is the place where I work and opensource cool stuffs. You can check out my [LinkedIn](https://www.linkedin.com/in/vernytran) profile for my background and contact info.
+This is where I code and open-source great projects. You can check out my [LinkedIn](https://www.linkedin.com/in/vernytran) profile for more information about my backrounds and contact info.
 
-💬 Ask me about anything, I'm happy to help!
+💬 Ask me about anything, I'm always delighted to assist!
 By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%23FFA700&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit!
 
 
@@ -64,6 +64,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 #### Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white)
+![Sourcetree](https://img.shields.io/badge/Sourcetree-%230047B3.svg?logo=sourcetree&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white)
 
