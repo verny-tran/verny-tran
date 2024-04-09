@@ -31,7 +31,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 <a href="https://stackoverflow.com/users/12090561/trần-t-dũng"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
 <a href="https://www.researchgate.net/profile/Dung-Tran-92"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white"/></a>
 <a href="https://medium.com/@vernytran"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
-<a href="discordapp.com/users/verny_tran"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white"/></a>
+<a href="https://discordapp.com/users/verny_tran"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white"/></a>
 <a href="https://twitter.com/verny_tran"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
 <a href="https://www.facebook.com/verniusovich"><img src="https://img.shields.io/badge/Facebook-%233B5998.svg?&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/my.xcodeproj"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
@@ -58,6 +58,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)
 
 #### Version Control:
