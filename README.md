@@ -29,7 +29,7 @@ Btw, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?u
 ### 📫 Connect with me:
 <a href="mailto:vernytran@icloud.com"><img src="https://img.shields.io/badge/iCloud-%23000000?&logo=icloud&logoColor=white"/></a>
 <a href="mailto:vernytran@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vernytran/"><img src="https://img.shields.io/badge/LinkedIn%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vernytran/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/verny-tran"><img src="https://img.shields.io/badge/GitHub-800080.svg?&logo=github&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/12090561/trần-t-dũng"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
 <a href="https://www.researchgate.net/profile/Dung-Tran-92"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white"/></a>
