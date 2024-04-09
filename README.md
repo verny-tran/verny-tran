@@ -110,6 +110,9 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 #### OS:
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white)
+![watchOS](https://img.shields.io/badge/macOS-000000?logo=watchos&logoColor=white)
+![tvOS](https://img.shields.io/badge/macOS-000000?logo=tvos&logoColor=white)
+![visionOS](https://img.shields.io/badge/macOS-000000?logo=visionos&logoColor=white)
 
 #### IDE:
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=xcode&logoColor=white)
@@ -118,9 +121,9 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)
 
 #### Design:
+![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-FF0000.svg?logo=adobe&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?logo=adobe%20illustrator&logoColor=white)
-![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-FF0000.svg?logo=adobe&logoColor=white)
 
 #### Communication:
 ![Slack](https://img.shields.io/badge/-Slack-E01563?logo=Slack&logoColor=white)
