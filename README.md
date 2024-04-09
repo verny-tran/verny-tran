@@ -63,6 +63,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)
 ![Google Data Studio](https://img.shields.io/badge/Google_Data_Studio-3366d0?logo=google-data-studio&logoColor=white)
+![_coremltools](https://img.shields.io/badge/_coremltools-2B283A?logo=apple&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=matplotlib&logoColor=black)
 
 #### Cloud Hosting:
@@ -76,7 +77,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 #### Databases:
 ![CloudKit](https://img.shields.io/badge/CloudKit-000000?logo=icloud&logoColor=white)
 ![Core_Data](https://img.shields.io/badge/Core_Data-003545?logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?logo=firebase&logoColor=ffcd34)
+![Firebase](https://img.shields.io/badge/Realtime_DB-a08021?logo=firebase&logoColor=ffcd34)
 ![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
