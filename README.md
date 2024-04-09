@@ -37,12 +37,12 @@ Btw, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?u
 #### Progamming Languages:
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3?logo=apple&logoColor=white)
-![Objective-C++](https://img.shields.io/badge/Objective--C++-%5e5086?logo=apple&logoColor=white)
+![Objective-C++](https://img.shields.io/badge/Objective--C++-%5e5086.svg?logo=apple&logoColor=white)
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C?logo=c-in-hexagon&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A?logo=cpp2&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-23E34F26.svg?logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080?logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000?logo=markdown&logoColor=white)
 
