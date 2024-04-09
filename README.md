@@ -54,7 +54,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000?logo=markdown&logoColor=white)
 
 #### Data Analysis & Machine Learning:
-![Core ML](https://img.shields.io/badge/Core_ML-314BF96?logo=coreml&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core_ML-%2314BF96.svg?logo=apple&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/Pytorch%20-ef4b28.svg?logo=Pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-3191c3.svg?logo=scikit-learn&logoColor=white)
