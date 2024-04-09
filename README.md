@@ -37,12 +37,14 @@ Btw, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?u
 #### Progamming Languages:
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3?logo=apple&logoColor=white)
-![Objective-C++](https://img.shields.io/badge/Objective--C++-%5e5086.svg?logo=apple&logoColor=white)
+![Objective-C++](https://img.shields.io/badge/Objective--C++-%5e508600?logo=apple&logoColor=white)
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C?logo=c-in-hexagon&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A?logo=cpp2&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?logo=javascript&logoColor=%23F7DF1E)
+![LaTeX](https://img.shields.io/badge/latex-%23008080?logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000?logo=markdown&logoColor=white)
 
 #### Data Analysis & Machine Learning:
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23FF6F00?logo=tensorflow&logoColor=white)
