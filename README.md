@@ -42,7 +42,7 @@ Btw, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?u
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A?logo=cpp2&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?logo=javascript&logoColor=%23F7DF1E)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080?logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000?logo=markdown&logoColor=white)
 
@@ -81,7 +81,6 @@ Btw, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?u
 
 #### Web Design & Development:
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
@@ -94,33 +93,29 @@ Btw, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?u
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23b8a04d.svg?logo=apache-tomcat&logoColor=white)
 
-#### System Admin Tools, DevOps & OSes:
+#### System Admin Tools & DevOps:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?logo=ansible&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase)
-![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/-Debian-A80030?logo=Debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Cent OS](https://img.shields.io/badge/cent%20os-002260?logo=centos&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+
+#### OS:
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white) 
 
-#### Other Tools:
-
+#### IDE:
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=xcode&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)
+
+#### Design:
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?logo=adobe%20illustrator&logoColor=white)
 ![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-FF0000.svg?logo=adobe&logoColor=white)
+
+#### Communication:
 ![Slack](https://img.shields.io/badge/-Slack-E01563?logo=Slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)
