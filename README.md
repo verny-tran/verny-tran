@@ -89,6 +89,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Vision](https://img.shields.io/badge/Vision-%23161616.svg?logo=apple&logoColor=white)
 ![Accelerate](https://img.shields.io/badge/Accelerate-07405e.svg?logo=apple&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-%23150458.svg?logo=apple&logoColor=white)
+![RxSwift](https://img.shields.io/badge/RxSwift-9C033A?logo=rxswift&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?logo=xamarin&logoColor=white)
 
 #### Data Analysis & Machine Learning:
@@ -126,7 +127,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Confluence](https://img.shields.io/badge/Confluence-%230047B3.svg?logo=confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=Trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-E01563?logo=Slack&logoColor=white)
-![Zalo](https://img.shields.io/badge/-Zalo-E01563?logo=Zalo&logoColor=white)
+![Zalo](https://img.shields.io/badge/-Zalo-%230167ff.svg?logo=Zalo&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)
 
 #### Cryptocurrency:
