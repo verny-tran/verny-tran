@@ -83,8 +83,12 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 
+#### Frameworks, Platforms and Libraries:
+![Vision](https://img.shields.io/badge/Vision-%23white.svg?logo=apple&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?logo=xamarin&logoColor=white)
+
 #### Data Analysis & Machine Learning:
-![Core ML](https://img.shields.io/badge/Core_ML-%2314BF96.svg?logo=apple&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core_ML-005571?logo=apple&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/Pytorch%20-ef4b28.svg?logo=Pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-3191c3.svg?logo=scikit-learn&logoColor=white)
