@@ -122,6 +122,8 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?logo=adobe%20illustrator&logoColor=white)
 
 #### Communication:
+![Jira](https://img.shields.io/badge/Jira-%230047B3.svg?logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%230047B3.svg?logo=confluence&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-E01563?logo=Slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)
