@@ -23,7 +23,7 @@ This is the place where I work and opensource cool stuffs. You can check out my 
 By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%23FFA700&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit!
 
 
-### 📲 Social profiles:
+### 🙋‍♂️ Social profiles:
 <a href="mailto:vernytran@icloud.com"><img src="https://img.shields.io/badge/iCloud-%23000000?&logo=icloud&logoColor=white"/></a>
 <a href="mailto:vernytran@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vernytran"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
@@ -39,7 +39,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 <a href="http://qr.kakao.com/talk/b.w5B0SWnhiClI3Gk76xiA1cwy8-"><img src="https://img.shields.io/badge/KakaoTalk-ffcd00.svg?logo=kakaotalk&logoColor=black"/></a>
 <a href="https://line.me/ti/p/VUlkAnCNGi"><img src="https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=white"/></a>
 
-### 🔨 Technical Stacks:
+### 🛠️ Technical Stacks:
 
 #### Programming Languages:
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
@@ -58,7 +58,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)
 
 #### Version Control:
@@ -85,8 +85,9 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 
 #### Frameworks, Platforms and Libraries:
-![Vision](https://img.shields.io/badge/Vision-%23white.svg?logo=apple&logoColor=white)
+![Vision](https://img.shields.io/badge/Vision-%23161616.svg?logo=apple&logoColor=white)
 ![Accelerate](https://img.shields.io/badge/Accelerate-07405e.svg?logo=apple&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-%23150458.svg?logo=apple&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?logo=xamarin&logoColor=white)
 
 #### Data Analysis & Machine Learning:
