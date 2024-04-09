@@ -91,7 +91,8 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Combine](https://img.shields.io/badge/Combine-%23150458.svg?logo=apple&logoColor=white)
 ![Alamofire](https://img.shields.io/badge/Alamofire-FF6701?logo=alibabacloud&logoColor=white)
 ![RxSwift](https://img.shields.io/badge/RxSwift-%23B7178C.svg?logo=reactivex&logoColor=white)
-![Lottie](https://img.shields.io/badge/Lottie-0AC18E?logo=lottie&logoColor=white)
+![Lottie](https://img.shields.io/badge/Lottie-0AC18E?logo=Litecoin&logoColor=white)
+![Hero](https://img.shields.io/badge/Hero-F7A41D?logo=Hugo&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?logo=xamarin&logoColor=white)
 
 #### Data Analysis & Machine Learning:
@@ -127,9 +128,9 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 #### Communication:
 ![Jira](https://img.shields.io/badge/Jira-%230047B3.svg?logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%230047B3.svg?logo=confluence&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=Trello&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-E01563?logo=Slack&logoColor=white)
-![Zalo](https://img.shields.io/badge/-Zalo-%230167ff.svg?logo=Zalo&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?logo=Trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white)
+![Zalo](https://img.shields.io/badge/Zalo-%230167ff.svg?logo=Zalo&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)
 
 #### Cryptocurrency:
