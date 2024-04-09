@@ -17,19 +17,17 @@ Here are some ideas to get you started:
 
 Presently works as an iOS Engineer at CELEBe Korea Co., Ltd. and as a Research Associate at the School of Computer Science and Engineering, International University (VNU-HCMC). I conduct research in the fields of computer vision, computer graphics, augmented reality, applied artificial intelligence and on-device machine learning utilizing mobile applications and other Apple-oriented platforms. Beside the coding work, I am also a proactive graphic, branding, and motion designer.
 
-Here is the place where I work and opensource cool stuffs.
+Here is the place where I work and opensource cool stuffs. You can check out my [LinkedIn profile](https://www.linkedin.com/in/vernytran) for my background and contact info.
 
-You can check out my [Linkedin Profile](https://www.linkedin.com/in/tomhuynhsg/) for the background and contact info.
+💬 Ask me about anything, I'm happy to help!
 
-💬 ask me about anything, I'm happy to help!
-
-Btw, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%233D3DFF&title_bg=%23E61E2A&icon=coveralls.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit!
+By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%233D3DFF&title_bg=%23E61E2A&icon=coveralls.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit!
 
 
 ### 📫 Connect with me:
 <a href="mailto:vernytran@icloud.com"><img src="https://img.shields.io/badge/iCloud-%23000000?&logo=icloud&logoColor=white"/></a>
 <a href="mailto:vernytran@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vernytran/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vernytran"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/verny-tran"><img src="https://img.shields.io/badge/GitHub-800080.svg?&logo=github&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/12090561/trần-t-dũng"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
 <a href="https://www.researchgate.net/profile/Dung-Tran-92"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white"/></a>
