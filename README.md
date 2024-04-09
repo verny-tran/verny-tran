@@ -110,9 +110,9 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 #### OS:
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white)
-![watchOS](https://img.shields.io/badge/macOS-000000?logo=watchos&logoColor=white)
-![tvOS](https://img.shields.io/badge/macOS-000000?logo=tvos&logoColor=white)
-![visionOS](https://img.shields.io/badge/macOS-000000?logo=visionos&logoColor=white)
+![watchOS](https://img.shields.io/badge/watchOS-000000?logo=watchos&logoColor=white)
+![tvOS](https://img.shields.io/badge/tvOS-000000?logo=tvos&logoColor=white)
+![visionOS](https://img.shields.io/badge/visionOS-000000?logo=visionos&logoColor=white)
 
 #### IDE:
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=xcode&logoColor=white)
