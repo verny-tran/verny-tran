@@ -27,10 +27,10 @@ Btw, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?u
 
 
 ### 📫 Connect with me: 
-<a href="mailto:vernytran@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/vernytran/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/verny-tran"><img src="https://img.shields.io/badge/github-800080.svg?&logo=github&logoColor=white" /></a>
-<!--<a href="https://www.facebook.com/tomhuynhsg/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;-->
+<a href="mailto:vernytran@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vernytran/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/verny-tran"><img src="https://img.shields.io/badge/GitHub-800080.svg?&logo=github&logoColor=white" /></a>
+<a href="https://www.facebook.com/verniusovich"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&logo=facebook&logoColor=white" /></a>
 
 
 ### 🔨 Languages & Frameworks:
