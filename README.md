@@ -38,9 +38,9 @@ Btw, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?u
 <a href="https://twitter.com/verny_tran"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
 <a href="https://www.facebook.com/verniusovich"><img src="https://img.shields.io/badge/Facebook-%233B5998.svg?&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/my.xcodeproj"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-<a href="https://www.threads.com/my.xcodeproj"><img src="https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white"/></a>
-<a href="https://www.facebook.com/verniusovich"><img src="https://img.shields.io/badge/Facebook-%233B5998.svg?&logo=facebook&logoColor=white"/></a>
-<a href="https://www.facebook.com/verniusovich"><img src="https://img.shields.io/badge/Facebook-%233B5998.svg?&logo=facebook&logoColor=white"/></a>
+<a href="https://www.threads.net/my.xcodeproj"><img src="https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white"/></a>
+<a href="https://www.facebook.com/verniusovich"><img src="https://img.shields.io/badge/KakaoTalk-ffcd00.svg?logo=kakaotalk&logoColor=black"/></a>
+<a href="https://www.facebook.com/verniusovich"><img src="https://img.shields.io/badge/Line-00C300?logo=line&logoColor=white"/></a>
 
 ### 🔨 Languages & Frameworks:
 
