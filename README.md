@@ -113,3 +113,6 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Slack](https://img.shields.io/badge/-Slack-E01563?logo=Slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)
+
+#### Store:
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)
