@@ -53,6 +53,36 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080?logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000?logo=markdown&logoColor=white)
 
+#### Editors:
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=xcode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)
+
+#### Version Control:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white)
+
+#### Databases:
+![CloudKit](https://img.shields.io/badge/CloudKit-000000?logo=icloud&logoColor=white)
+![Core_Data](https://img.shields.io/badge/Core_Data-003545?logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Realtime_DB-a08021?logo=firebase&logoColor=ffcd34)
+![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-F29111?logo=MySQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch)
+
+#### Cloud Hosting:
+![AWS](https://img.shields.io/badge/-Amazon_Web_Services-f29100?logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+
 #### Data Analysis & Machine Learning:
 ![Core ML](https://img.shields.io/badge/Core_ML-%2314BF96.svg?logo=apple&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23FF6F00?logo=tensorflow&logoColor=white)
@@ -65,33 +95,8 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Google Data Studio](https://img.shields.io/badge/Google_Data_Studio-3366d0?logo=google-data-studio&logoColor=white)
 ![_coremltools](https://img.shields.io/badge/_coremltools-%23ffffff.svg?logo=apple&logoColor=black)
 
-#### Cloud Hosting:
-![AWS](https://img.shields.io/badge/-Amazon_Web_Services-f29100?logo=amazonaws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)
-![Github Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
-
-#### Databases:
-![CloudKit](https://img.shields.io/badge/CloudKit-000000?logo=icloud&logoColor=white)
-![Core_Data](https://img.shields.io/badge/Core_Data-003545?logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Realtime_DB-a08021?logo=firebase&logoColor=ffcd34)
-![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-F29111?logo=MySQL&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch)
-
-#### Version Control:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white)
-
-#### Servers:
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
-
 #### CI/CD:
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/Circle%20CI-%23161616.svg?logo=circleci&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=githubactions&logoColor=white)
 
@@ -101,13 +106,6 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![watchOS](https://img.shields.io/badge/watchOS-000000?logo=apple&logoColor=white)
 ![tvOS](https://img.shields.io/badge/tvOS-000000?logo=apple&logoColor=white)
 ![visionOS](https://img.shields.io/badge/visionOS-000000?logo=apple&logoColor=white)
-
-#### Editors:
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=xcode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)
 
 #### Design:
 ![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-FF0000.svg?logo=adobe&logoColor=white)
