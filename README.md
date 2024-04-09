@@ -61,7 +61,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
 ![Google Data Studio](https://img.shields.io/badge/Google_Data_Studio-3366d0?logo=google-data-studio&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?logo=Matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=matplotlib&logoColor=black)
 
 #### Cloud Hosting:
 ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-f29100?logo=amazonaws&logoColor=white)
@@ -74,12 +74,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 #### Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-f7f700.svg?logo=hadoop&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-db571b.svg?logo=apachespark&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=Apache%20Airflow&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=Airtable&logoColor=white)
 
 #### Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
