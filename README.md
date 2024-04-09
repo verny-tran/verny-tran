@@ -100,6 +100,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![_coremltools](https://img.shields.io/badge/_coremltools-%23ffffff.svg?logo=apple&logoColor=black)
 
 #### CI/CD:
+![Xcode_Cloud](https://img.shields.io/badge/Xcode_Cloud-007ACC?logo=xcode&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/Circle%20CI-%23161616.svg?logo=circleci&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=githubactions&logoColor=white)
