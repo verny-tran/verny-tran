@@ -89,7 +89,8 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Vision](https://img.shields.io/badge/Vision-%23161616.svg?logo=apple&logoColor=white)
 ![Accelerate](https://img.shields.io/badge/Accelerate-07405e.svg?logo=apple&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-%23150458.svg?logo=apple&logoColor=white)
-![RxSwift](https://img.shields.io/badge/RxSwift-9C033A?logo=rxswift&logoColor=white)
+![Alamofire](https://img.shields.io/badge/Alamofire-ef4b28?logo=reactivex&logoColor=white)
+![RxSwift](https://img.shields.io/badge/RxSwift-%23B7178C.svg?logo=reactivex&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?logo=xamarin&logoColor=white)
 
 #### Data Analysis & Machine Learning:
