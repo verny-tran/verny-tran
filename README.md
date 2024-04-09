@@ -115,4 +115,4 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)
 
 #### Store:
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)
+![AppStore](https://img.shields.io/badge/AppStore-0D96F6?logo=app-store&logoColor=white)
