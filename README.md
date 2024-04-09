@@ -114,7 +114,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)
 
 #### Cryptocurrency:
-![fanC](https://img.shields.io/badge/fanC-7D00FF?logo=c&logoColor=white)
+![fanC](https://img.shields.io/badge/fanC-7D00FF?logo=Chainlink&logoColor=white)
 
 #### Store:
 ![AppStore](https://img.shields.io/badge/AppStore-0D96F6?logo=app-store&logoColor=white)
