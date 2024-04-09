@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 Presently works as an iOS Engineer at CELEBe Korea Co., Ltd. and as a Research Associate at the School of Computer Science and Engineering, International University (VNU-HCMC). I conduct research in the fields of computer vision, computer graphics, augmented reality, applied artificial intelligence and on-device machine learning utilizing mobile applications and other Apple-oriented platforms. Beside the coding work, I am also a proactive graphic, branding, and motion designer.
 
-Here is the place where I work and opensource cool stuffs. You can check out my [LinkedIn profile](https://www.linkedin.com/in/vernytran) for my background and contact info.
+This is the place where I work and opensource cool stuffs. You can check out my [LinkedIn](https://www.linkedin.com/in/vernytran) profile for my background and contact info.
 
 💬 Ask me about anything, I'm happy to help!
-
 By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%23FFA700&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit!
 
 
