@@ -60,12 +60,8 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-3191c3.svg?logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)
 ![Google Data Studio](https://img.shields.io/badge/Google_Data_Studio-3366d0?logo=google-data-studio&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?logo=Matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white)
-![D3](https://img.shields.io/badge/-D3.js-f89d43?logo=d3.js&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-jupyter_notebook-%23f37626.svg?logo=jupyter&logoColor=white)
 
 #### Cloud Hosting:
 ![GCP](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?logo=google-cloud&logoColor=white)
@@ -84,21 +80,6 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=Apache%20Airflow&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=Airtable&logoColor=white)
-
-
-#### Web Design & Development:
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?logo=react&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white)
-![Prestashop](https://img.shields.io/badge/Prestashop-d7006b?logo=prestashop&logoColor=white)
-![Magento](https://img.shields.io/badge/Magento-f36306?logo=magento&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![Apache](https://img.shields.io/badge/-Apache-D22128?logo=Apache&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=Apache%20Maven&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23b8a04d.svg?logo=apache-tomcat&logoColor=white)
 
 #### System Admin Tools & DevOps:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
