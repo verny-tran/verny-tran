@@ -32,6 +32,9 @@ Btw, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?u
 <a href="https://www.linkedin.com/in/vernytran/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/verny-tran"><img src="https://img.shields.io/badge/GitHub-800080.svg?&logo=github&logoColor=white" /></a>
 <a href="https://www.researchgate.net/profile/Dung-Tran-92"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/12090561/trần-t-dũng"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
+<a href="https://github.com/verny-tran"><img src="https://img.shields.io/badge/GitHub-800080.svg?&logo=github&logoColor=white" /></a>
+<a href="https://github.com/verny-tran"><img src="https://img.shields.io/badge/GitHub-800080.svg?&logo=github&logoColor=white" /></a>
 <a href="https://www.facebook.com/verniusovich"><img src="https://img.shields.io/badge/Facebook-%233B5998.svg?&logo=facebook&logoColor=white" /></a>
 
 
