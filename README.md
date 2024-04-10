@@ -70,7 +70,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 
 #### Databases:
 ![CloudKit](https://img.shields.io/badge/CloudKit-000000?logo=icloud&logoColor=white)
-![Core_Data](https://img.shields.io/badge/Core_Data-003545?logo=redis&logoColor=white)
+![Core Data](https://img.shields.io/badge/Core_Data-003545?logo=apple&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Realtime_DB-a08021?logo=firebase&logoColor=ffcd34)
 ![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?logo=MySQL&logoColor=white)
@@ -98,6 +98,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Alamofire](https://img.shields.io/badge/Alamofire-FF6701?logo=alibabacloud&logoColor=white)
 ![RxSwift](https://img.shields.io/badge/RxSwift-%23B7178C.svg?logo=reactivex&logoColor=white)
 ![Lottie](https://img.shields.io/badge/Lottie-0AC18E?logo=Litecoin&logoColor=white)
+![Lottie](https://custom-icon-badges.herokuapp.com/badge/Lottie-0AC18E?logo=lottie&logoColor=white)
 ![Hero](https://img.shields.io/badge/Hero-F7A41D?logo=Hugo&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?logo=xamarin&logoColor=white)
 
@@ -138,7 +139,6 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Dreamweaver](https://img.shields.io/badge/Dreamweaver-FF61F6.svg?logo=Adobe%20Dreamweaver&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
-![Zeplin](https://img.shields.io/badge/Zeplin-%23FF9A00.svg?logo=zig%20illustrator&logoColor=white)
 ![Zeplin](https://custom-icon-badges.herokuapp.com/badge/Zeplin-FF9A00?logo=zeplin&logoColor=white)
 
 #### Communication:
