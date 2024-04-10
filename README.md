@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 Presently works as an iOS Engineer at CELEBe Korea Co., Ltd. and as a Research Associate at the School of Computer Science and Engineering, International University (VNU-HCMC). I conduct research in the fields of computer vision, computer graphics, augmented reality, applied artificial intelligence and on-device machine learning utilizing mobile applications and other Apple-oriented platforms. Beside the coding work, I am also a proactive graphic, branding, and motion designer.
 
-This is where I code and open-source great projects. You can check out my [LinkedIn](https://www.linkedin.com/in/vernytran) profile for more information about my backrounds and contact info.
-
-💬 Ask me about anything, I'm always delighted to assist!
-By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=FFA700&title_bg=555555&icon=github&icon_color=E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit~
-
+This is where I store and open-source great projects. You can check out my [LinkedIn](https://www.linkedin.com/in/vernytran) profile for more information about my backrounds and contact info.
 
 ### 🙋‍♂️ Social profiles:
 <a href="mailto:vernytran@icloud.com"><img src="https://img.shields.io/badge/iCloud-000000?&logo=icloud&logoColor=white"/></a>
@@ -39,6 +35,9 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 <a href="http://qr.kakao.com/talk/b.w5B0SWnhiClI3Gk76xiA1cwy8-"><img src="https://img.shields.io/badge/KakaoTalk-ffcd00?logo=kakaotalk&logoColor=black"/></a>
 <a href="https://line.me/ti/p/VUlkAnCNGi"><img src="https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=white"/></a>
 
+💬 Ask me about anything, I'm always delighted to help!
+By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%23FFA700&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit~
+
 ### 🛠️ Technical Stacks:
 
 #### Programming & Markup Languages:
@@ -49,7 +48,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A?logo=cpp2&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Javascript](https://img.shields.io/badge/JavaScript-ffcd00?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
