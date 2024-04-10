@@ -20,7 +20,7 @@ Presently works as an iOS Engineer at CELEBe Korea Co., Ltd. and as a Research A
 This is where I code and open-source great projects. You can check out my [LinkedIn](https://www.linkedin.com/in/vernytran) profile for more information about my backrounds and contact info.
 
 💬 Ask me about anything, I'm always delighted to assist!
-By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%23FFA700&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit!
+By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%23FFA700&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit~
 
 
 ### 🙋‍♂️ Social profiles:
@@ -89,6 +89,11 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Vision](https://img.shields.io/badge/Vision-%23161616.svg?logo=apple&logoColor=white)
 ![Accelerate](https://img.shields.io/badge/Accelerate-07405e.svg?logo=apple&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-%23150458.svg?logo=apple&logoColor=white)
+
+![Core Graphics](https://img.shields.io/badge/Core_Graphics-311C87?logo=apple&logoColor=white)
+![Core Animations](https://img.shields.io/badge/Core_Animations-2C2052?logo=apple&logoColor=white)
+![Core NFC](https://img.shields.io/badge/Core_NFC-ED2B88?logo=apple&logoColor=white)
+
 ![Alamofire](https://img.shields.io/badge/Alamofire-FF6701?logo=alibabacloud&logoColor=white)
 ![RxSwift](https://img.shields.io/badge/RxSwift-%23B7178C.svg?logo=reactivex&logoColor=white)
 ![Lottie](https://img.shields.io/badge/Lottie-0AC18E?logo=Litecoin&logoColor=white)
