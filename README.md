@@ -102,7 +102,6 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Alamofire](https://img.shields.io/badge/Alamofire-FF6701?logo=alibabacloud&logoColor=white)
 ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?logo=reactivex&logoColor=white)
 ![Lottie](https://img.shields.io/badge/Lottie-0AC18E?logo=Litecoin&logoColor=white)
-![Lottie](https://custom-icon-badges.herokuapp.com/badge/Lottie-0AC18E?logo=lottie&logoColor=white)
 ![Hero](https://img.shields.io/badge/Hero-F7A41D?logo=Hugo&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?logo=xamarin&logoColor=white)
 
