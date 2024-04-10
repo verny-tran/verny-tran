@@ -49,7 +49,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A?logo=cpp2&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
@@ -90,7 +90,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 #### Frameworks, Platforms and Libraries:
 ![Vision](https://img.shields.io/badge/Vision-161616?logo=apple&logoColor=white)
 ![Accelerate](https://img.shields.io/badge/Accelerate-07405e?logo=apple&logoColor=white)
-![Metal](https://img.shields.io/badge/Metal-5835CC?logo=metal&logoColor=white)
+![Metal](https://img.shields.io/badge/Metal-5835CC?logo=apple&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-150458?logo=apple&logoColor=white)
 ![Core Graphics](https://img.shields.io/badge/Core_Graphics-311C87?logo=apple&logoColor=white)
 ![Core Animations](https://img.shields.io/badge/Core_Animations-2C2052?logo=apple&logoColor=white)
