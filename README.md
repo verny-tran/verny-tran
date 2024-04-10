@@ -138,7 +138,8 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Dreamweaver](https://img.shields.io/badge/Dreamweaver-FF61F6.svg?logo=Adobe%20Dreamweaver&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
-![Zeplin](https://img.shields.io/badge/Zeplin-%23FF9A00.svg?logo=https://aleen42.github.io/badges/src/zeplin.svg%20illustrator&logoColor=white)
+![Zeplin](https://img.shields.io/badge/Zeplin-%23FF9A00.svg?logo=zig%20illustrator&logoColor=white)
+![Zeplin](https://custom-icon-badges.herokuapp.com/badge/Zeplin-FF9A00?logo=zeplin&logoColor=white)
 
 #### Communication:
 ![Jira](https://img.shields.io/badge/Jira-%230047B3.svg?logo=jira&logoColor=white)
