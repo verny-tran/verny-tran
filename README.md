@@ -87,7 +87,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 
 #### Frameworks, Platforms and Libraries:
-![SwiftUI](https://img.shields.io/badge/AVKit-003791?logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-3273F4?logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-36465D?logo=apple&logoColor=white)
 ![AVKit](https://img.shields.io/badge/AVKit-77AA99?logo=apple&logoColor=white)
 ![ARKit](https://img.shields.io/badge/ARKit-363636?logo=apple&logoColor=white)
