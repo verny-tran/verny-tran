@@ -128,17 +128,17 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 
 #### Design:
 ![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-FF0000.svg?logo=adobe&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?logo=Adobe%20Fonts&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?logo=adobe%20illustrator&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?logo=Adobe%20Lightroom&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?logo=Adobe%20Dreamweaver&logoColor=white)
+![Creative Cloud](https://img.shields.io/badge/Creative%20Cloud-DA1F26.svg?logo=Adobe%20Creative%20Cloud&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?logo=adobe%20illustrator&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?logo=Adobe%20Lightroom&logoColor=white)
+![XD](https://img.shields.io/badge/XD-470137?logo=Adobe%20XD&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?logo=Adobe%20After%20Effects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Dreamweaver](https://img.shields.io/badge/Dreamweaver-FF61F6.svg?logo=Adobe%20Dreamweaver&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
-![Zeplin](https://img.shields.io/badge/Zeplin-%23FF9A00.svg?logo=zeplin%20illustrator&logoColor=white)
+![Zeplin](https://img.shields.io/badge/Zeplin-%23FF9A00.svg?logo=https://aleen42.github.io/badges/src/zeplin.svg%20illustrator&logoColor=white)
 
 #### Communication:
 ![Jira](https://img.shields.io/badge/Jira-%230047B3.svg?logo=jira&logoColor=white)
