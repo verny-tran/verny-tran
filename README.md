@@ -1,5 +1,3 @@
-### 👨‍💻 A dedicated Apple Developer
-
 <!--
 **verny-tran/verny-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👨‍💻 A dedicated Apple Developer
 
 Presently works as an iOS Engineer at CELEBe Korea Co., Ltd. and as a Research Associate at the School of Computer Science and Engineering, International University (VNU-HCMC). I conduct research in the fields of computer vision, computer graphics, augmented reality, applied artificial intelligence and on-device machine learning utilizing mobile applications and other Apple-oriented platforms. Beside the coding work, I am also a proactive graphic, branding, and motion designer.
 
@@ -21,7 +20,7 @@ This is where I store and open-source great projects. You can check out my [Link
 
 ---
 
-### 🙋‍♂️ Social profiles:
+### 💬 Social profiles:
 <a href="mailto:vernytran@icloud.com"><img src="https://img.shields.io/badge/iCloud-000000?&logo=icloud&logoColor=white"/></a>
 <a href="mailto:vernytran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vernytran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
@@ -37,7 +36,7 @@ This is where I store and open-source great projects. You can check out my [Link
 <a href="http://qr.kakao.com/talk/b.w5B0SWnhiClI3Gk76xiA1cwy8-"><img src="https://img.shields.io/badge/KakaoTalk-ffcd00?logo=kakaotalk&logoColor=black"/></a>
 <a href="https://line.me/ti/p/VUlkAnCNGi"><img src="https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=white"/></a>
 
-💬 Ask me about anything, I'm always delighted to help!
+Ask me about anything, I'm always delighted to help!
 By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%23FFA700&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit~
 
 ---
