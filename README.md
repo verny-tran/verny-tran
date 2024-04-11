@@ -153,7 +153,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white)
 ![Zalo](https://img.shields.io/badge/Zalo-0167ff?logo=Zalo&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-010101?logo=notion&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-010101?logo=clickup&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-5865F2?logo=clickup&logoColor=white)
 
 #### Cryptocurrency:
 ![fanC](https://img.shields.io/badge/fanC-7D00FF?logo=Chainlink&logoColor=white)
