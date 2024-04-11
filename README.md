@@ -19,6 +19,8 @@ Presently works as an iOS Engineer at CELEBe Korea Co., Ltd. and as a Research A
 
 This is where I store and open-source great projects. You can check out my [LinkedIn](https://www.linkedin.com/in/vernytran) profile for more information about my backrounds and contact info.
 
+---
+
 ### 🙋‍♂️ Social profiles:
 <a href="mailto:vernytran@icloud.com"><img src="https://img.shields.io/badge/iCloud-000000?&logo=icloud&logoColor=white"/></a>
 <a href="mailto:vernytran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white"/></a>
@@ -37,6 +39,8 @@ This is where I store and open-source great projects. You can check out my [Link
 
 💬 Ask me about anything, I'm always delighted to help!
 By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%23FFA700&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit~
+
+---
 
 ### 🛠️ Technical Stacks:
 
