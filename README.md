@@ -21,7 +21,7 @@ Presently works as an iOS Engineer at CELEBe Korea Co., Ltd. and as a Research A
 * On-device machine learning.
 * Computer vision, graphics.
 * Games and AR, VR.
-* Designs.
+* Designs, ...
 
 This is where I store and open-source great projects. You can check out my [LinkedIn](https://www.linkedin.com/in/vernytran) profile for more information about my backrounds and contact info.
 
