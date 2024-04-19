@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 
 Presently works as an iOS Engineer at CELEBe Korea Co., Ltd. and as a Research Associate at the School of Computer Science and Engineering, International University (VNU-HCMC). I conduct research in the fields of computer vision, computer graphics, augmented reality, applied artificial intelligence and on-device machine learning utilizing mobile applications and other Apple-oriented platforms. Beside the coding work, I am also a proactive graphic, branding, and motion designer.
 
+🚀 Things I do:
+* Eclectic, exuberance iOS custom controls
+* On-device machine learning
+* Computer vision, graphics
+* Games and AR, VR
+* Designs
+
 This is where I store and open-source great projects. You can check out my [LinkedIn](https://www.linkedin.com/in/vernytran) profile for more information about my backrounds and contact info.
 
 ---
