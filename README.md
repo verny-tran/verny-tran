@@ -139,6 +139,11 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![CircleCI](https://img.shields.io/badge/Circle%20CI-161616?logo=circleci&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=githubactions&logoColor=white)
 
+### Distribution:
+![AppStore Connect](https://img.shields.io/badge/AppStore_Connect-0D96F6?logo=app-store&logoColor=white)
+![TestFlight](https://img.shields.io/badge/AppStore_Connect-0D96F6?logo=testflight&logoColor=white)
+![Firebase Distribution](https://img.shields.io/badge/Firebase-FDA403?logo=firebase&logoColor=white)
+
 ### Operating System:
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
@@ -172,6 +177,3 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 
 ### Cryptocurrency:
 ![fanC](https://img.shields.io/badge/fanC-7D00FF?logo=Chainlink&logoColor=white)
-
-### Store:
-![AppStore](https://img.shields.io/badge/AppStore-0D96F6?logo=app-store&logoColor=white)
