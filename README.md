@@ -79,7 +79,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ### Databases:
 ![CloudKit](https://img.shields.io/badge/CloudKit-000000?logo=icloud&logoColor=white)
 ![Core Data](https://img.shields.io/badge/Core_Data-003545?logo=apple&logoColor=white)
-![Firebase](https://img.shields.io/badge/Realtime_DB-a08021?logo=firebase&logoColor=ffcd34)
+![Firebase](https://img.shields.io/badge/Realtime_DB-FDA403?logo=firebase&logoColor=white)
 ![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?logo=sqlite&logoColor=white)
@@ -89,7 +89,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-f29100?logo=amazonaws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?logo=digitalOcean&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-FDA403?logo=firebase&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 
