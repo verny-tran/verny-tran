@@ -141,7 +141,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 
 ### Distribution:
 ![AppStore Connect](https://img.shields.io/badge/AppStore_Connect-0D96F6?logo=app-store&logoColor=white)
-![TestFlight](https://img.shields.io/badge/AppStore_Connect-0D96F6?logo=testflight&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?logo=test-flight&logoColor=white)
 ![Firebase Distribution](https://img.shields.io/badge/Firebase-FDA403?logo=firebase&logoColor=white)
 
 ### Operating System:
