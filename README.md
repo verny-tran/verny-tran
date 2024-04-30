@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👨‍💻 A dedicated Apple Developer
 
-Presently works as an **iOS Engineer** at **CELEBe Korea Co., Ltd.** and as a **Research Associate** at the **School of Computer Science and Engineering, International University (VNU-HCMC)**. I conduct research in the fields of *computer vision*, *computer graphics*, *augmented reality*, *applied artificial intelligence* and *on-device machine learning* utilizing mobile applications and other *Apple-oriented* platforms. Beside the coding work, I am also a proactive *graphic*, *branding*, and *motion* designer.
+Presently works as an **iOS Engineer** at [**CELEBe Korea Co., Ltd.**](https://www.celebe.io) and as a **Research Associate** at the [**School of Computer Science and Engineering, International University (VNU-HCMC)**](https://it.hcmiu.edu.vn). I conduct research in the fields of *computer vision*, *computer graphics*, *augmented reality*, *applied artificial intelligence* and *on-device machine learning* utilizing mobile applications and other *Apple-oriented* platforms. Beside the coding work, I am also a proactive *graphic*, *branding*, and *motion* designer.
 
 🚀 Things I do:
 * Eclectic, exuberance iOS custom controls.
@@ -23,7 +23,7 @@ Presently works as an **iOS Engineer** at **CELEBe Korea Co., Ltd.** and as a **
 * Games and AR, VR.
 * Designs, ...
 
-This is where I store and *open-source* great projects. You can check out my [LinkedIn](https://www.linkedin.com/in/vernytran) profile for more information about my backrounds and contact info.
+This is where I store and *open-source* great projects. You can check out my [**LinkedIn**](https://www.linkedin.com/in/vernytran) profile for more information about my backrounds and contact info.
 
 ## 💬 Social Profiles:
 <a href="mailto:vernytran@icloud.com"><img src="https://img.shields.io/badge/iCloud-000000?&logo=icloud&logoColor=white"/></a>
