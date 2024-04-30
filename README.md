@@ -32,6 +32,7 @@ This is where I store and *open-source* great projects. You can check out my [**
 <a href="https://github.com/verny-tran"><img src="https://img.shields.io/badge/GitHub-800080?&logo=github&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/12090561/trần-t-dũng"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
 <a href="https://www.researchgate.net/profile/Dung-Tran-92"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=5uBoDD4AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white"/></a>
 <a href="https://medium.com/@vernytran"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
 <a href="https://discordapp.com/users/verny_tran"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
 <a href="https://twitter.com/verny_tran"><img src="https://img.shields.io/badge/X-000000?logo=X&logoColor=white"/></a>
@@ -119,8 +120,8 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Banuba](https://img.shields.io/badge/Banuba-000000?logo=babel&logoColor=white)
 ![Lottie](https://img.shields.io/badge/Lottie-0AC18E?logo=Litecoin&logoColor=white)
 ![Hero](https://img.shields.io/badge/Hero-F7A41D?logo=Hugo&logoColor=white)
-![Sendbird](https://img.shields.io/badge/Sendbird-5E1675?logo=sendbird&logoColor=white)
-![AppsFlyer](https://img.shields.io/badge/AppsFlyer-211951?logo=appsflyer&logoColor=white)
+![Sendbird](https://img.shields.io/badge/Sendbird-5E1675?logo=singlestore&logoColor=white)
+![AppsFlyer](https://img.shields.io/badge/AppsFlyer-211951?logo=xing&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?logo=xamarin&logoColor=white)
 
 ### Data Analysis & Machine Learning:
@@ -145,7 +146,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ### Distribution:
 ![AppStore Connect](https://img.shields.io/badge/AppStore_Connect-0D96F6?logo=app-store&logoColor=white)
 ![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?logo=apple&logoColor=white)
-![Firebase Distribution](https://img.shields.io/badge/Firebase-FDA403?logo=firebase&logoColor=white)
+![Firebase Distribution](https://img.shields.io/badge/Firebase_Distribution-FDA403?logo=firebase&logoColor=white)
 
 ### Operating System:
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
