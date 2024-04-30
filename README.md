@@ -112,6 +112,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Accelerate](https://img.shields.io/badge/Accelerate-07405e?logo=apple&logoColor=white)
 ![Metal](https://img.shields.io/badge/Metal-5835CC?logo=apple&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-150458?logo=apple&logoColor=white)
+
 ![Kingfisher](https://img.shields.io/badge/Kingfisher-29B2FE?logo=freelancer&logoColor=white)
 ![Alamofire](https://img.shields.io/badge/Alamofire-FF6701?logo=alibabacloud&logoColor=white)
 ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?logo=reactivex&logoColor=white)
@@ -133,7 +134,8 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 
 ### CI/CD:
 ![Xcode_Cloud](https://img.shields.io/badge/Xcode_Cloud-007ACC?logo=xcode&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-2C5263?logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?logo=jenkins&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-874CCC?logo=fastlane&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/Circle%20CI-161616?logo=circleci&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=githubactions&logoColor=white)
 
@@ -145,8 +147,9 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![visionOS](https://img.shields.io/badge/visionOS-000000?logo=apple&logoColor=white)
 
 ### Design:
-![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-FF0000?logo=adobe&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-D04848?logo=google&logoColor=white)
 ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D?logo=Adobe%20Fonts&logoColor=white)
+![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-FF0000?logo=adobe&logoColor=white)
 ![Creative Cloud](https://img.shields.io/badge/Creative%20Cloud-DA1F26?logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white)
