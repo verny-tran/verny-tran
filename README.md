@@ -116,8 +116,11 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Kingfisher](https://img.shields.io/badge/Kingfisher-29B2FE?logo=freelancer&logoColor=white)
 ![Alamofire](https://img.shields.io/badge/Alamofire-FF6701?logo=alibabacloud&logoColor=white)
 ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?logo=reactivex&logoColor=white)
+![Banuba](https://img.shields.io/badge/Banuba-000000?logo=babel&logoColor=white)
 ![Lottie](https://img.shields.io/badge/Lottie-0AC18E?logo=Litecoin&logoColor=white)
 ![Hero](https://img.shields.io/badge/Hero-F7A41D?logo=Hugo&logoColor=white)
+![Sendbird](https://img.shields.io/badge/Sendbird-5E1675?logo=sendbird&logoColor=white)
+![AppsFlyer](https://img.shields.io/badge/AppsFlyer-211951?logo=appsflyer&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?logo=xamarin&logoColor=white)
 
 ### Data Analysis & Machine Learning:
@@ -141,7 +144,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 
 ### Distribution:
 ![AppStore Connect](https://img.shields.io/badge/AppStore_Connect-0D96F6?logo=app-store&logoColor=white)
-![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?logo=test-flight&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?logo=apple&logoColor=white)
 ![Firebase Distribution](https://img.shields.io/badge/Firebase-FDA403?logo=firebase&logoColor=white)
 
 ### Operating System:
@@ -177,3 +180,4 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 
 ### Cryptocurrency:
 ![fanC](https://img.shields.io/badge/fanC-7D00FF?logo=Chainlink&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=Ethereum&logoColor=white)
