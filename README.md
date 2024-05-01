@@ -33,6 +33,8 @@ This is where I store and *open-source* great projects. You can check out my [**
 <a href="https://stackoverflow.com/users/12090561/trần-t-dũng"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
 <a href="https://www.researchgate.net/profile/Dung-Tran-92"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white"/></a>
 <a href="https://scholar.google.com/citations?user=5uBoDD4AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white"/></a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57222036843"><img src="https://img.shields.io/badge/Scopus-E9711C?logo=scopus&logoColor=white"/></a>
+<a href="https://orcid.org/0009-0004-7234-1215"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white"/></a>
 <a href="https://medium.com/@vernytran"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
 <a href="https://discordapp.com/users/verny_tran"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
 <a href="https://twitter.com/verny_tran"><img src="https://img.shields.io/badge/X-000000?logo=X&logoColor=white"/></a>
