@@ -124,6 +124,11 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![AppsFlyer](https://img.shields.io/badge/AppsFlyer-211951?logo=xing&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?logo=xamarin&logoColor=white)
 
+### Dependency Managers:
+![Swift Package Manager](https://img.shields.io/badge/Swift_Package_Manager-DE5C43?logo=swift&logoColor=white)
+![CocoaPods](https://img.shields.io/badge/CocoaPods-D14836?logo=cocoapods&logoColor=white)
+![Carthage](https://img.shields.io/badge/Carthage-brightgreen?logo=carthage&logoColor=white)
+
 ### Data Analysis & Machine Learning:
 ![Core ML](https://img.shields.io/badge/Core_ML-005571?logo=apple&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?logo=tensorflow&logoColor=white)
