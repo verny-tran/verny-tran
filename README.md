@@ -60,7 +60,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Javascript](https://img.shields.io/badge/JavaScript-ffcd00?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-blue?logo=pascal&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-0047B3?logo=pascal&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
