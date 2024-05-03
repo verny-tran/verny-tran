@@ -79,8 +79,6 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![GitLab](https://img.shields.io/badge/GitLab-181717?logo=gitlab&logoColor=white)
 
 ### Databases:
-![CloudKit](https://img.shields.io/badge/CloudKit-000000?logo=icloud&logoColor=white)
-![Core Data](https://img.shields.io/badge/Core_Data-003545?logo=apple&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Realtime_DB-29B2FE?logo=firebase&logoColor=white)
 ![Realm](https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-F29111?logo=MySQL&logoColor=white)
@@ -95,7 +93,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 
-### Frameworks, Platforms and Libraries:
+### Apple Frameworks:
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-3273F4?logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-36465D?logo=apple&logoColor=white)
 ![AVKit](https://img.shields.io/badge/AVKit-77AA99?logo=apple&logoColor=white)
@@ -104,6 +102,8 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![SceneKit](https://img.shields.io/badge/SceneKit-CF4647?logo=apple&logoColor=white)
 ![MapKit](https://img.shields.io/badge/MapKit-3B82F6?logo=apple&logoColor=white)
 ![WidgetKit](https://img.shields.io/badge/WidgetKit-41B06E?logo=apple&logoColor=white)
+![CloudKit](https://img.shields.io/badge/CloudKit-000000?logo=icloud&logoColor=white)
+![Core Data](https://img.shields.io/badge/Core_Data-003545?logo=apple&logoColor=white)
 ![Core Graphics](https://img.shields.io/badge/Core_Graphics-311C87?logo=apple&logoColor=white)
 ![Core Animations](https://img.shields.io/badge/Core_Animations-2C2052?logo=apple&logoColor=white)
 ![Core Image](https://img.shields.io/badge/Core_Image-1428A0?logo=apple&logoColor=white)
@@ -117,6 +117,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Metal](https://img.shields.io/badge/Metal-5835CC?logo=apple&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-150458?logo=apple&logoColor=white)
 
+### Third-party Libraries:
 ![Kingfisher](https://img.shields.io/badge/Kingfisher-29B2FE?logo=freelancer&logoColor=white)
 ![Alamofire](https://img.shields.io/badge/Alamofire-FF6701?logo=alibabacloud&logoColor=white)
 ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?logo=reactivex&logoColor=white)
