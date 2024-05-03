@@ -109,6 +109,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Core Image](https://img.shields.io/badge/Core_Image-1428A0?logo=apple&logoColor=white)
 ![Core Video](https://img.shields.io/badge/Core_Video-3C5B6F?logo=apple&logoColor=white)
 ![Core Text](https://img.shields.io/badge/Core_Text-a50034?logo=apple&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core_ML-005571?logo=apple&logoColor=white)
 ![Core NFC](https://img.shields.io/badge/Core_NFC-ED2B88?logo=apple&logoColor=white)
 ![Core Bluetooth](https://img.shields.io/badge/Core_Bluetooth-153448?logo=apple&logoColor=white)
 ![Vision](https://img.shields.io/badge/Vision-161616?logo=apple&logoColor=white)
@@ -132,7 +133,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Carthage](https://img.shields.io/badge/Carthage-3C3C3D?logo=tor-browser&logoColor=white)
 
 ### Data Analysis & Machine Learning:
-![Core ML](https://img.shields.io/badge/Core_ML-005571?logo=apple&logoColor=white)
+![_coremltools](https://img.shields.io/badge/_coremltools-ffffff?logo=apple&logoColor=black)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/Pytorch%20-ef4b28?logo=Pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-3191c3?logo=scikit-learn&logoColor=white)
@@ -141,7 +142,6 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![NumPy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)
 ![Google Data Studio](https://img.shields.io/badge/Google_Data_Studio-3366d0?logo=google-data-studio&logoColor=white)
-![_coremltools](https://img.shields.io/badge/_coremltools-ffffff?logo=apple&logoColor=black)
 
 ### CI/CD:
 ![Xcode_Cloud](https://img.shields.io/badge/Xcode_Cloud-007ACC?logo=xcode&logoColor=white)
