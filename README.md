@@ -36,6 +36,7 @@ This is where I store and *open-source* great projects. You can check out my [**
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57222036843"><img src="https://img.shields.io/badge/Scopus-E9711C?logo=scopus&logoColor=white"/></a>
 <a href="https://orcid.org/0009-0004-7234-1215"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white"/></a>
 <a href="https://medium.com/@vernytran"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
+<a href="https://www.reddit.com/user/verny_tran/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white"/></a>
 <a href="https://discordapp.com/users/verny_tran"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/></a>
 <a href="https://twitter.com/verny_tran"><img src="https://img.shields.io/badge/X-000000?logo=X&logoColor=white"/></a>
 <a href="https://www.facebook.com/verniusovich"><img src="https://img.shields.io/badge/Facebook-3B5998?&logo=facebook&logoColor=white"/></a>
@@ -60,7 +61,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Javascript](https://img.shields.io/badge/JavaScript-ffcd00?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-0047B3?logo=pascal&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-0047B3?logo=prefect&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
