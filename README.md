@@ -120,6 +120,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Accelerate](https://img.shields.io/badge/Accelerate-07405e?logo=apple&logoColor=white)
 ![Metal](https://img.shields.io/badge/Metal-5835CC?logo=apple&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-150458?logo=apple&logoColor=white)
+![BNNS](https://img.shields.io/badge/BNNS-005571?logo=apple&logoColor=white)
 
 ### Third-party Libraries:
 ![Kingfisher](https://img.shields.io/badge/Kingfisher-29B2FE?logo=freelancer&logoColor=white)
