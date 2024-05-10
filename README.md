@@ -71,14 +71,14 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-important?logo=sublime-text&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-important?logo=sublime-text&logoColor=white)
 
 ### Version Control:
 ![Git](https://img.shields.io/badge/git-F05033?logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0047B3?logo=bitbucket&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0047B3?logo=sourcetree&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-181717?logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-E34F26?logo=gitlab&logoColor=white)
 
 ### Databases:
 ![Firebase](https://img.shields.io/badge/Realtime_DB-29B2FE?logo=firebase&logoColor=white)
@@ -103,8 +103,10 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![SpriteKit](https://img.shields.io/badge/SpriteKit-5C2D91?logo=apple&logoColor=white)
 ![SceneKit](https://img.shields.io/badge/SceneKit-CF4647?logo=apple&logoColor=white)
 ![MapKit](https://img.shields.io/badge/MapKit-3B82F6?logo=apple&logoColor=white)
+![PhotoKit](https://img.shields.io/badge/PhotoKit-3191C3?logo=apple&logoColor=white)
 ![WidgetKit](https://img.shields.io/badge/WidgetKit-41B06E?logo=apple&logoColor=white)
 ![CloudKit](https://img.shields.io/badge/CloudKit-000000?logo=icloud&logoColor=white)
+![CryptoKit](https://img.shields.io/badge/CryptoKit-7D00FF?logo=apple&logoColor=white)
 ![Core Data](https://img.shields.io/badge/Core_Data-003545?logo=apple&logoColor=white)
 ![Core Graphics](https://img.shields.io/badge/Core_Graphics-311C87?logo=apple&logoColor=white)
 ![Core Animations](https://img.shields.io/badge/Core_Animations-2C2052?logo=apple&logoColor=white)
