@@ -137,6 +137,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Swift Package Manager](https://img.shields.io/badge/Swift_Package_Manager-DE5C43?logo=swift&logoColor=white)
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-D14836?logo=cocoapods&logoColor=white)
 ![Carthage](https://img.shields.io/badge/Carthage-3C3C3D?logo=tor-browser&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
 
 ### Data Analysis & Machine Learning:
 ![_coremltools](https://img.shields.io/badge/_coremltools-ffffff?logo=apple&logoColor=black)
