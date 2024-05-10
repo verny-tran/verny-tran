@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 
 Presently works as an **iOS Engineer** at [**CELEBe Korea** Co., Ltd.](https://www.celebe.io) and as a **Research Associate** at the [School of Computer Science and Engineering, **International University (VNU-HCMC)**](https://it.hcmiu.edu.vn). I conduct research in the fields of *computer vision*, *computer graphics*, *augmented reality*, *applied artificial intelligence* and *on-device machine learning* utilizing mobile applications and other *Apple-oriented* platforms. Beside the coding work, I am also a proactive *graphic*, *branding*, and *motion* designer.
 
-__🚀 Things I do:__
+#### 🚀 Things I do:
 * Eclectic, exuberance iOS custom controls.
 * On-device machine learning.
 * Computer vision, graphics.
 * Games and AR, VR.
 * Designs, ...
 
-This is where I store and *open-source* great projects. You can check out my [**LinkedIn**](https://www.linkedin.com/in/vernytran) profile for more information about my backrounds and contact info.
+> This is where I store and *open-source* great projects. You can check out my [**LinkedIn**](https://www.linkedin.com/in/vernytran) profile for more information about my backrounds and contact info.
 
 ## 💬 Social Profiles:
 <a href="mailto:vernytran@icloud.com"><img src="https://img.shields.io/badge/iCloud-000000?&logo=icloud&logoColor=white"/></a>
@@ -45,7 +45,8 @@ This is where I store and *open-source* great projects. You can check out my [**
 <a href="http://qr.kakao.com/talk/b.w5B0SWnhiClI3Gk76xiA1cwy8-"><img src="https://img.shields.io/badge/KakaoTalk-ffcd00?logo=kakaotalk&logoColor=black"/></a>
 <a href="https://line.me/ti/p/VUlkAnCNGi"><img src="https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=white"/></a>
 
-Ask me about anything, I'm always delighted to help!
+> Ask me about anything, I'm always delighted to help!
+
 By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fverny-tran&count_bg=%23FFA700&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)! Thanks for your visit~
 
 ## 🛠️ Technical Stacks:
