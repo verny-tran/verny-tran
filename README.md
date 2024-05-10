@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Presently works as an **iOS Engineer** at [**CELEBe Korea** Co., Ltd.](https://www.celebe.io) and as a **Research Associate** at the [School of Computer Science and Engineering, **International University (VNU-HCMC)**](https://it.hcmiu.edu.vn). I conduct research in the fields of *computer vision*, *computer graphics*, *augmented reality*, *applied artificial intelligence* and *on-device machine learning* utilizing mobile applications and other *Apple-oriented* platforms. Beside the coding work, I am also a proactive *graphic*, *branding*, and *motion* designer.
 
-🚀 Things I do:
+__🚀 Things I do:__
 * Eclectic, exuberance iOS custom controls.
 * On-device machine learning.
 * Computer vision, graphics.
