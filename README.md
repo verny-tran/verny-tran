@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👨‍💻 A dedicated Apple Developer
 
-Presently works as an **iOS Engineer** at [**SilverAI** JSC.](https://silverai.com) and as a **Research Associate** at the [School of Computer Science and Engineering, **International University (VNU-HCMC)**](https://it.hcmiu.edu.vn). I conduct research in the fields of *computer vision*, *computer graphics*, *augmented reality*, *applied artificial intelligence* and *on-device machine learning* utilizing mobile applications and other *Apple-oriented* platforms. Beside the coding work, I am also a proactive *graphic*, *branding*, and *motion* designer.
+Presently works as an **iOS Engineer** at [**SilverAI** JSC.](https://silverai.com) and previously as a **Research Associate** at the [School of Computer Science and Engineering, **International University (VNU-HCMC)**](https://it.hcmiu.edu.vn). I conduct research in the fields of *computer vision*, *computer graphics*, *augmented reality*, *applied artificial intelligence* and *on-device machine learning* utilizing mobile applications and other *Apple-oriented* platforms. Beside the coding work, I am also a proactive *graphic*, *branding*, and *motion* designer.
 
 #### 🚀 Things I do:
 * Eclectic, exuberance iOS custom controls.
@@ -101,6 +101,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![UIKit](https://img.shields.io/badge/UIKit-36465D?logo=apple&logoColor=white)
 ![AVKit](https://img.shields.io/badge/AVKit-77AA99?logo=apple&logoColor=white)
 ![ARKit](https://img.shields.io/badge/ARKit-363636?logo=apple&logoColor=white)
+![VisionKit](https://img.shields.io/badge/VisionKit-161616?logo=apple&logoColor=white)
 ![SpriteKit](https://img.shields.io/badge/SpriteKit-5C2D91?logo=apple&logoColor=white)
 ![SceneKit](https://img.shields.io/badge/SceneKit-CF4647?logo=apple&logoColor=white)
 ![MapKit](https://img.shields.io/badge/MapKit-3B82F6?logo=apple&logoColor=white)
@@ -117,7 +118,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![Core ML](https://img.shields.io/badge/Core_ML-005571?logo=apple&logoColor=white)
 ![Core NFC](https://img.shields.io/badge/Core_NFC-ED2B88?logo=apple&logoColor=white)
 ![Core Bluetooth](https://img.shields.io/badge/Core_Bluetooth-153448?logo=apple&logoColor=white)
-![Vision](https://img.shields.io/badge/Vision-161616?logo=apple&logoColor=white)
+![Photos](https://img.shields.io/badge/Photos-FF61F6?logo=apple&logoColor=white)
 ![Accelerate](https://img.shields.io/badge/Accelerate-07405e?logo=apple&logoColor=white)
 ![Metal](https://img.shields.io/badge/Metal-5835CC?logo=apple&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-150458?logo=apple&logoColor=white)
