@@ -111,7 +111,7 @@ By the way, you are the [![Hits](https://hits.seeyoufarm.com/api/count/incr/badg
 ![CryptoKit](https://img.shields.io/badge/CryptoKit-7D00FF?logo=apple&logoColor=white)
 ![Core Data](https://img.shields.io/badge/Core_Data-003545?logo=apple&logoColor=white)
 ![Core Graphics](https://img.shields.io/badge/Core_Graphics-311C87?logo=apple&logoColor=white)
-![Core Animations](https://img.shields.io/badge/Core_Animations-2C2052?logo=apple&logoColor=white)
+![Core Animation](https://img.shields.io/badge/Core_Animations-2C2052?logo=apple&logoColor=white)
 ![Core Image](https://img.shields.io/badge/Core_Image-1428A0?logo=apple&logoColor=white)
 ![Core Video](https://img.shields.io/badge/Core_Video-3C5B6F?logo=apple&logoColor=white)
 ![Core Text](https://img.shields.io/badge/Core_Text-a50034?logo=apple&logoColor=white)
